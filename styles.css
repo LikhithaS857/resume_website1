@@ -9,7 +9,7 @@ body {
 
 header {
     background: #00FFFF;
-    color: white;
+    color: Black;
     padding: 10px 0;
     text-align: center;
 }
@@ -26,7 +26,7 @@ header nav a:hover {
 
 main {
     padding: 20px;
-    background: white;
+    background: beige;
     margin: 20px auto;
     max-width: 800px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
