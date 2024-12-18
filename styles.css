@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background: #rgb(242, 176, 247);
+    background: #rgb(249, 219, 251);
     color: Black;
     padding: 10px 0;
     text-align: center;
@@ -26,7 +26,7 @@ header nav a:hover {
 
 main {
     padding: 20px;
-    background: beige;
+    background: pink;
     margin: 20px auto;
     max-width: 800px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
